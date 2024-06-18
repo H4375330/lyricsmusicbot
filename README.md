@@ -1,39 +1,29 @@
-# Telegram Music Bot
+<h2 align="center">
+    ──「 🎧ཧᜰ꙰ꦿ➢LYRICS ༒🎧 」──
+</h2>
 
-This is a simple Telegram bot that plays music from YouTube links. 
+<p align="center">
+  <img src="https://www.imghippo.com/i/FRv9c1718704776.jpg">
+</p>
 
-## Setup
+<h3 align="center">
+    ─「 🎧ཧᜰ꙰ꦿ➢LYRICS ༒🎧 」─
+</h3>
 
-1. Clone the repository:
+<p align="center"><a href="https://ibb.co/23QPVQ7"><img src="https://i.ibb.co/23QPVQ7/IMG-20240618-153759-248.jpg" alt="IMG-20240618-153759-248" border="0"> </a><h3 align="center">
+    ─「 music bot 」─
+</h3>
 
-    ```bash
-    git clone https://github.com/@Lyricsmusic3_bot/telegram_music_bot.git
-    cd telegram_music_bot
-    ```
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-2. Install the dependencies:
+<p align="center">
+<a href="https://t.me/myimaginaryfriends1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+<p align="center">
+<a href="https://t.me/lyricsmusic67"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-3. Create a `.env` file and add your Telegram bot token:
-
-    ```plaintext
-    TELEGRAM_TOKEN=7494721071:AAHov6Z7ut4F7-5LU3xTPFfS3ByUZHZjsJk
-    ```
-
-4. Run the bot:
-
-    ```bash
-    python telegram_music_bot.py
-    ```
-
-## Usage
-
-- `/start`: Start the bot.
-- `/play <YouTube URL>`: Play music from the provided YouTube URL.
-
-## License
-
-This project is licensed under the MIT License.
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs </b>
