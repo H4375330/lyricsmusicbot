@@ -1,0 +1,4 @@
+python-t.me/Lyricsmusic3_bot
+python-dotenv
+youtube_dl
+pydub
