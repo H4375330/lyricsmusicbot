@@ -7,8 +7,8 @@ This is a simple Telegram bot that plays music from YouTube links.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/@Lyricsmusic3_bot/telegram_music_bot.git
-    cd telegram_music_bot
+    git clone https://github.com/lyricsmusicbot/@Lyricsmusic3_bot
+    cd @Lyricsmusic3_bot
     ```
 
 2. Install the dependencies:
@@ -26,7 +26,7 @@ This is a simple Telegram bot that plays music from YouTube links.
 4. Run the bot:
 
     ```bash
-    python telegram_music_bot.py
+    python @Lyricsmusic3_bot .py
     ```
 
 ## Usage
